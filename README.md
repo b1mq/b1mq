@@ -54,8 +54,13 @@
 
 ---
 
+### 🖥️ My Workspace
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/CPU-Intel%20i5%2010400F-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPU-GTX%201660%20Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-32%20GB-FF6C37?style=for-the-badge&logo=corsair&logoColor=white" />
+</p>
 
 ---
 
