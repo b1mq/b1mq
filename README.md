@@ -57,6 +57,12 @@
 ### 📬 Connect
 
 <p align="center">
+  <a href="mailto:damiirtagiorvw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-damiirtagiorvw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/rtdt77">
+    <img src="https://img.shields.io/badge/Telegram-rtdt77-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
   <a href="https://github.com/b1mq">
     <img src="https://img.shields.io/badge/GitHub-b1mq-181717?style=for-the-badge&logo=github" />
   </a>
