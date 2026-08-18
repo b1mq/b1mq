@@ -8,7 +8,7 @@
 
   <br>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBwM21xbTlwcTJzaDJwbGlxZHQ4cm13aXByZW12bzV0b2xpcWljMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dMvTBys07qCZgWcKdC/giphy.gif" width="320" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV5Nnp2ZmFxOWplcnNrNGVkZXRyNjlmOGJjNHIxODh2dW5zdnBiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A8Uo4id6WCk8rJkJk5/giphy.gif" width="320" />
 
 </div>
 
@@ -29,13 +29,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,typescript,html,css,git,github" />
 </p>
 
 ---
@@ -60,11 +54,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=b1mq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1mq&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=b1mq&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
