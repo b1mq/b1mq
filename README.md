@@ -12,11 +12,13 @@
 
 ### 🚀 About Me
 
-- 💻 Building with **C# / .NET**
-- 🎬 Passionate about cinema and media-related projects
-- 🧠 Exploring architecture, MVC, LINQ, and multithreading
-- 🌍 Based in **Stuttgart, Germany**
-- ⚡ Always open to new ideas and collaborations
+<p align="center">
+  💻 Building with <b>C# / .NET</b><br>
+  🎬 Passionate about cinema & media projects<br>
+  🧠 Exploring architecture, MVC, LINQ & multithreading<br>
+  🌍 Based in <b>Stuttgart, Germany</b><br>
+  ⚡ Always open to new ideas and collaborations
+</p>
 
 ---
 
@@ -36,21 +38,30 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**MVC-Cinema**](https://github.com/b1mq/MVC-Cinema) | Cinema web application | C# · ASP.NET MVC |
-| [**CinemaMoviesFinder**](https://github.com/b1mq/CinemaMoviesFinder) | Movie search tool | C# |
-| [**Forum22-Luna**](https://github.com/b1mq/Forum22-Luna) | Forum application | TypeScript |
-| [**ServerTCP**](https://github.com/b1mq/ServerTCP) | TCP server | C# |
+<p align="center">
+  <a href="https://github.com/b1mq/MVC-Cinema">
+    <img src="https://img.shields.io/badge/MVC--Cinema-Cinema%20Web%20App-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </a>
+  <a href="https://github.com/b1mq/CinemaMoviesFinder">
+    <img src="https://img.shields.io/badge/CinemaMoviesFinder-Movie%20Search-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  </a>
+  <br><br>
+  <a href="https://github.com/b1mq/Forum22-Luna">
+    <img src="https://img.shields.io/badge/Forum22--Luna-Forum%20App-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://github.com/b1mq/ServerTCP">
+    <img src="https://img.shields.io/badge/ServerTCP-TCP%20Server-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=b1mq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1mq&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+</p>
 
 ---
 
@@ -69,7 +80,6 @@
 </p>
 
 <div align="center">
-  
-  ⭐️ From [b1mq](https://github.com/b1mq)
-
+  <br>
+  ⭐️ From <b>b1mq</b>
 </div>
