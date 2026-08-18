@@ -6,6 +6,10 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=C%23+%26+.NET+enthusiast;Love+building+clean+APIs;Always+learning+something+new" alt="Typing SVG" />
 
+  <br>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBwM21xbTlwcTJzaDJwbGlxZHQ4cm13aXByZW12bzV0b2xpcWljMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dMvTBys07qCZgWcKdC/giphy.gif" width="320" />
+
 </div>
 
 ---
