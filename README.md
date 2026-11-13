@@ -35,7 +35,12 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,typescript,html,css,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,python,cpp,js,typescript,html,css,react,django,mysql,git,github&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EF%20Core-Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -48,8 +53,10 @@ flowchart LR
     U([👤 Browser]) -->|HTTP request| R{{🛣 Routing}}
     R --> C[🎮 Controller]
     C -->|business logic| S[⚙️ Service]
-    S -->|LINQ queries| M[(🗄 Model / DB)]
-    M -->|data| S
+    S -->|LINQ queries| E[🧬 EF Core]
+    E -->|SQL| M[(🗄 Database)]
+    M -->|rows| E
+    E -->|entities| S
     S --> C
     C -->|ViewModel| V[🖼 View]
     V -->|HTML response| U
@@ -68,17 +75,24 @@ mindmap
       .NET
       REST APIs
       MVC
-    Language
+      Django
+    Data
+      SQL
+      EF Core
       LINQ
-      Async / Await
-      Multithreading
+    Languages
+      Python
+      C++
+      JavaScript
+      TypeScript
+    Frontend
+      React
+      HTML
+      CSS
     Networking
       TCP Server
       Sockets
-    Web
-      TypeScript
-      HTML
-      CSS
+      Multithreading
     Tools
       Git
       GitHub
